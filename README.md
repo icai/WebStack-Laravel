@@ -4,6 +4,15 @@
 
 ![首页](public/screen/01.JPG)
 
+## Todo
+
+[ ]支持第三方登录 ***
+[ ]支持多级分类 ***
+[ ]后台前端重构
+[ ]添加搜索引擎配置
+
+
+
 
 
 ## 部署
@@ -11,7 +20,7 @@
 克隆代码：
 
 ```shell
-git clone https://github.com/hui-ho/WebStack-Laravel.git
+git clone https://github.com/icai/WebStack-Laravel.git
 ```
 
 安装依赖：
